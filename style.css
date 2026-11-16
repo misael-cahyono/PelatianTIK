@@ -15,5 +15,5 @@ body {
 }  
 .kartu-profil img {
   width: 150px;
-  border-radius: 0%; /* trik untuk membuat gambar persegi menjadi lingkaran sempurna */
+  border-radius: 20%; /* trik untuk membuat gambar persegi menjadi lingkaran sempurna */
 }
